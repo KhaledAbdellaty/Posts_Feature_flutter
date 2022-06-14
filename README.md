@@ -1,4 +1,4 @@
-## Clean_architecture_app
+## Posts_Feature_flutter
 
 A new Flutter project.
 
